@@ -1,2 +1,2 @@
 # Python_MouseAccuracy_Bot
- Auto Click Bot for https://mouseaccuracy.com/
+ Auto Mouse Click Bot for https://mouseaccuracy.com
